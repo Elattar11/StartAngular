@@ -1,0 +1,41 @@
+
+.bg-second
+{
+  background-color: rgb(44,62,80);
+}
+
+.font-weight
+{
+  font-weight: 700;
+}
+
+.fs-30
+{
+  font-size: 30px;
+}
+
+.active-color
+{
+  background-color: #1abc9c;
+}
+
+a
+{
+  color: white;
+}
+
+a:hover
+{
+  color: white;
+}
+
+/* .nav-link
+{
+  color: white;
+}
+.nav-link:hover
+{
+  color: white;
+} */
+
+
